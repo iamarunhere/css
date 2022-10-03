@@ -57,17 +57,16 @@ margin: 40px auto 0 auto;
 padding: 0 0 20px;
 }
   .profile{
-    width: 90%;
-    margin-left:60px;
+    width: 100%;
   }
 .skill-row{
-  width: 90%;
+  width: 100%;
   margin: 10px auto 10px auto;
   line-height: 2;
 }
 .tech-skill{
   margin: 10px auto 10px auto ;
-  width:90%;
+  width:100%;
   line-height: 2;
 }
 .arunimg{
@@ -104,7 +103,7 @@ hr{
 }
 li{
   text-align: left;
-  margin-left: 230px;
+  margin-left: 420px;
 }
 
 .btn {
