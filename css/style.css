@@ -32,6 +32,7 @@ h3 {
   color: #66BFBF;
   font-family: 'Montserrat', sans-serif;
 }
+a{
   color:#11999E;
   font-family: 'Montserrat', sans-serif;
   margin:10px 20px;
@@ -55,19 +56,23 @@ a:hover{
 margin: 40px auto 0 auto;
 padding: 0 0 20px;
 }
-  .profile{
-    width: 75%;
-    margin-left:170px;
-  }
-a{
+.bottom-cloud {
+  position: absolute;
+}
+
+.top-cloud {
+  position: relative;
+  left: 250px;
+  top: 20px;
+}
 .skill-row{
-  width: 75%;
+  width: 70%;
   margin: 10px auto 10px auto;
   line-height: 2;
 }
 .tech-skill{
   margin: 10px auto 10px auto ;
-  width:75%;
+  width:70%;
   line-height: 2;
 }
 .skill-img{
@@ -76,9 +81,14 @@ width: 40%;
 .computer-img{
   width: 40%;
 }
+
   .self-des{
     line-height:2;
     margin: 8px auto 8px auto;
+  }
+  .profile{
+    width: 70%;
+    margin-left:170px;
   }
 hr{
   border: dotted;
@@ -99,7 +109,7 @@ hr{
 }
 li{
   text-align: left;
-  margin-left: 170px;
+  margin-left: 230px;
 }
 
 .btn {
@@ -140,3 +150,4 @@ li{
   margin:auto;
   color:#31C6D4 ;
 }
+
