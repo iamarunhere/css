@@ -56,15 +56,10 @@ a:hover{
 margin: 40px auto 0 auto;
 padding: 0 0 20px;
 }
-.bottom-cloud {
-  position: absolute;
-}
-
-.top-cloud {
-  position: relative;
-  left: 250px;
-  top: 20px;
-}
+  .profile{
+    width: 70%;
+    margin-left:170px;
+  }
 .skill-row{
   width: 70%;
   margin: 10px auto 10px auto;
@@ -74,6 +69,9 @@ padding: 0 0 20px;
   margin: 10px auto 10px auto ;
   width:70%;
   line-height: 2;
+}
+.arunimg{
+  width:40%;
 }
 .skill-img{
 width: 40%;
@@ -86,10 +84,7 @@ width: 40%;
     line-height:2;
     margin: 8px auto 8px auto;
   }
-  .profile{
-    width: 70%;
-    margin-left:170px;
-  }
+
 hr{
   border: dotted;
   border-bottom: none;
@@ -134,9 +129,6 @@ li{
   font-size: 0.75REM;
   margin:40px auto 0 auto;
   padding-bottom: 20px;
-}
-.arunimg{
-  width:20%;
 }
 .contact-me{
   line-height: 2;
